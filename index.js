@@ -6,7 +6,6 @@ const PORT = 3000;
 
 app.use(express.json());
 
-
 let tasks = [];
 
 // Create a new task
